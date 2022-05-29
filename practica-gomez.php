@@ -1,5 +1,6 @@
 <?php
 /**
+ *Este documento está subido en el repositorio GitHub Yentl-GV/dawdistancia22. 
  *@author Yentl
  *@version 1.0
  *{@internal He creado una nueva función de resta "function resta" ahora tenemos dos funciones.}
